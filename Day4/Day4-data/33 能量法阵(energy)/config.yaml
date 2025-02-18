@@ -1,0 +1,29 @@
+type: default
+time: 2500ms
+filename: energy
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: pao1.in
+        output: pao1.out
+      - input: pao2.in
+        output: pao2.out
+      - input: pao3.in
+        output: pao3.out
+      - input: pao4.in
+        output: pao4.out
+      - input: pao5.in
+        output: pao5.out
+      - input: pao6.in
+        output: pao6.out
+      - input: pao7.in
+        output: pao7.out
+      - input: pao8.in
+        output: pao8.out
+      - input: pao9.in
+        output: pao9.out
+      - input: pao10.in
+        output: pao10.out

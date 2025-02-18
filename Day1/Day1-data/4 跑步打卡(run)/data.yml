@@ -1,0 +1,15 @@
+subtasks:
+    - score: 12
+      type: sum
+      cases: [1,2,3,4]
+    - score: 27
+      type: sum
+      cases: [5,6,7]
+    - score: 16
+      type: sum
+      cases: [8,9]
+    - score: 45
+      type: sum
+      cases: [10,11,12,13,14]
+inputFile: '#.in'
+outputFile: '#.out'
